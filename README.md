@@ -18,4 +18,4 @@ Code can be checked by right clicking into inspect in chrome browser.
 
 ## Credits
 
-Original html and css probided by Horiseon
+Original contents provided by Horiseon
