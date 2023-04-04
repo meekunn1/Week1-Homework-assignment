@@ -8,11 +8,6 @@ body {
     background-color: #d9dcd6;
 }
 
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -89,6 +84,11 @@ p {
     color: #ffffff;
 }
 
+.content-section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .content-section img {
     max-height: 200px;
 }
@@ -129,5 +129,4 @@ p {
 
 .footer h2 {
     font-size: 20px;
-    margin-bottom: 0px;
 }
